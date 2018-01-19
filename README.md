@@ -1,0 +1,2 @@
+# lightningnetwork-network
+Owned by the community of LN supporters, who created a network of active members working to promote and finalise world-wide adoption. They call themselves the LightningNetwork Network. Their creation: The LightningNetwork Foundation (who immediately renamed itself to LightningNetwork Network) not to be confused with the original genesis group: the LightningNetwork Network.
