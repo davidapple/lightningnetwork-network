@@ -1,15 +1,21 @@
-## Welcome to GitHub Pages
+# LightningNetwork Network
 
-You can use the [editor on GitHub](https://github.com/davidapple/lightningnetwork-network/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Owned by the community of LN supporters, who created a network of active members working to promote and finalise world-wide adoption. They call themselves the LightningNetwork Network. Their creation: The LightningNetwork Foundation (who immediately renamed itself to LightningNetwork Network) not to be confused with the original genesis group: the LightningNetwork Network.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Badges
 
-### Markdown
+Badges show your commitment and lightning network adoption zeal.  The point is to show the smaller subset of LN enthusiasts that "you are onboard" or on your way to being onboard to have your clients use LN on your platform.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To help coordinate mass adoption and maximizing media impact accross the flat plane, we will help every major Bitcoin service (wallet, exchange, explorer, price index etc.) in their efforts to be ready.
 
-```markdown
-Syntax highlighted code block
+a) releasing documents that complement critical, breaking stories; 
+b) prioritizing certain regions of the globe over others; 
+c) concentrating on specific instances of U.S. government malfeasance so as to fundamentally alter the terms of Washington’s foreign policy, if such illegality is demonstrated through the documents pertaining to Lightning Network 
+d) releasing more LN relevant cables and saving the less important documents for later; 
+e) reassessing overall media strategy
+ 
+--
+
 
 # Header 1
 ## Header 2
