@@ -4,7 +4,7 @@ Owned by the community of LN supporters, who created a network of active members
 
 ## Badges
 
-Badges show your commitment and lightning network adoption zeal.  The point is to show the smaller subset of LN enthusiasts that "you are onboard" or on your way to being onboard to have your clients use LN on your platform.
+Badges show your commitment and lightning network adoption zeal.  The point is to show the smaller subset of LN enthusiasts that "you are onboard" or on your way to being onboard to have your clients use LN on your platform.  The following images are available from this github in large, medium, small as well as vector format.
 
 
 
