@@ -6,7 +6,7 @@ Owned by the community of LN supporters, who created a network of active members
 
 Badges show your commitment and lightning network adoption zeal.  The point is to show the smaller subset of LN enthusiasts that "you are onboard" or on your way to being onboard to have your clients use LN on your platform.
 
-![LightningNetwork Network Badge 1a](https://raw.githubusercontent.com/davidapple/lightningnetwork-network/master/images/LNN-badge-1a-med.png)
+![LightningNetwork Network Badge 1a](images/LNN-badge-1a-med.png)
 
 To help coordinate mass adoption and maximizing media impact accross the flat plane, we will help every major Bitcoin service (wallet, exchange, explorer, price index etc.) in their efforts to be ready.
  
